@@ -1,1 +1,9 @@
-
+[
+  {
+    "SESSION": "Run #1 | 2026-05-17 00:38:04",
+    "TARGET": "[160-2] => https://app.xocdiaonline.wtf | TOKEN: 906dcd165a7171de4dd191bc1f635f1e",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 7e622341",
+    "SCREEN_GPU": "Res: 1920x1080 | GPU: NVIDIA GeForce RTX 2060 | RAM: 8GB | CPU: 2 Cores | Plugins: 7 | Adblock: Có",
+    "NETWORK": "IP: Unknown | ISP: Unknown (Unknown) | Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  }
+]
