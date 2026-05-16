@@ -19,5 +19,12 @@
     "DEVICE": "Xiaomi/Redmi (2510DRA23E) | Android 15 | Browser: Edge | Canvas Hash: 23a023ae",
     "SCREEN_GPU": "Res: 1080x2393 | GPU: Mali-G57 MC2 | Plugins: 0 | Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN: Có (Lệch Timezone/Lang) | Pin: 94% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #4 | 2026-05-17 01:22:13",
+    "TARGET": "[160-2] => https://app.xocdiaonline.wtf | TOKEN: 435b10c2c4272a83427008a8c14b146b",
+    "DEVICE": "Xiaomi/Redmi (2510DRA23E) | Android 15 | Browser: Edge | Canvas Hash: 23a023ae",
+    "SCREEN_GPU": "Res: 1080x2393 | GPU: Mali-G57 MC2 | Plugins: 0 | Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN: Có (Lệch Timezone/Lang) | Pin: 94% (Rút sạc)"
   }
 ]
