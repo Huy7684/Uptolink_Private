@@ -47,5 +47,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 7e622341",
     "SCREEN_GPU": "Res: 1920x1080 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "IP: 2001:ee0:1b38:ff0:e93c:64f7:9933:1daf | ISP: N/A (FreeAPI) (Thủ Đức, Vietnam) | Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #8 | 2026-05-17 01:00:30",
+    "TARGET": "[160-2] => https://app.xocdiaonline.wtf | TOKEN: 2aee1510ff88ff3ba7c74338c18e107e",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 7e622341",
+    "SCREEN_GPU": "Res: 1920x1080 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "IP: undefined | ISP: undefined (undefined) | Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
