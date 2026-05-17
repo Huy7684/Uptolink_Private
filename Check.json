@@ -1237,5 +1237,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 905cb0f",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #178 | 2026-05-17 14:44:36",
+    "TARGET": "[3-2] => https://momo.cn.com | TOKEN: 3c286760dd8bd0bcb8f676e3c2c02a60",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 69cabeed",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
