@@ -733,5 +733,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 6c52e806",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #106 | 2026-05-17 14:12:26",
+    "TARGET": "[201-2] => https://mb66i2.ink | TOKEN: 2670dba77f14070d0299b9ea0d12d9c8",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 5c2c85c3",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
