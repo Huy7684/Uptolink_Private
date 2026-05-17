@@ -1160,5 +1160,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 69cabeed",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #167 | 2026-05-17 14:38:59",
+    "TARGET": "[173-2] => https://macu.sa.com | TOKEN: 82195c373b005a4c0317fc887a1dbe98",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 742d1786",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
