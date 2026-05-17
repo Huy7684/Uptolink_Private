@@ -1048,5 +1048,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 905cb0f",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #151 | 2026-05-17 14:32:22",
+    "TARGET": "[158-2] => https://xtt.us.com | TOKEN: a3b7c46a57ef57d036264a39806ed99c",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 742d1786",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
