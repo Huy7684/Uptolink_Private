@@ -1027,5 +1027,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 742d1786",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #148 | 2026-05-17 14:31:24",
+    "TARGET": "[96-2] => https://wbcgfp.ru.com | TOKEN: f98bded19893dae104451a180fc84cbb",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 3320f9e8",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
