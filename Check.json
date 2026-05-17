@@ -1279,5 +1279,12 @@
     "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 521c766c",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7",
     "NETWORK": "Mạng: Online | VPN: Không | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #184 | 2026-05-17 21:57:39",
+    "TARGET": "[198-2] => holysmoke.london (Google Redirect)",
+    "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 7967b171",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7",
+    "NETWORK": "Mạng: Online | VPN: Không | Pin: N/A"
   }
 ]
