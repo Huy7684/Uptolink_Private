@@ -691,5 +691,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 5c2c85c3",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #100 | 2026-05-17 14:09:31",
+    "TARGET": "[186-2] => https://tukruw.za.com | TOKEN: 50fd8c4c78c17aa2e240785f09c6c303",
+    "DEVICE": "Vivo V1965A | Android 10 | Browser: Chrome | Canvas Hash: 352d4845",
+    "SCREEN_GPU": "Res: 1080x2340 | GPU: Adreno (TM) 610, | Plugins: 0 | Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN: Có (Lệch Timezone/Lang) | Pin: 76% (Rút sạc)"
   }
 ]
