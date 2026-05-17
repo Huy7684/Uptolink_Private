@@ -705,5 +705,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 6c52e806",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #102 | 2026-05-17 14:11:03",
+    "TARGET": "[204-2] => https://789pkhuyenmai.com | TOKEN: 42568f5b94d791aa528a7e0d09359b91",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 23d3621e",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
