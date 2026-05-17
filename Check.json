@@ -922,5 +922,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 3320f9e8",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #133 | 2026-05-17 14:25:08",
+    "TARGET": "[169-2] => https://qmt.uk.com | TOKEN: 75468839957e444408c8b2cf9c3eec1b",
+    "DEVICE": "Vivo V1965A | Android 10 | Browser: Chrome | Canvas Hash: 352d4845",
+    "SCREEN_GPU": "Res: 1080x2340 | GPU: Adreno (TM) 610, | Plugins: 0 | Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN: Có (Lệch Timezone/Lang) | Pin: 72% (Rút sạc)"
   }
 ]
