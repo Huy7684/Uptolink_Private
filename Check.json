@@ -894,5 +894,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 7bcc59c5",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #129 | 2026-05-17 14:23:28",
+    "TARGET": "[218-4] => https://www.ok365.org | TOKEN: 693a65647925ada974f4516655b5ad3f",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 905cb0f",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
