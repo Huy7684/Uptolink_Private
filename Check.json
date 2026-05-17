@@ -1132,5 +1132,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 3320f9e8",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #163 | 2026-05-17 14:37:00",
+    "TARGET": "[218-2] => https://nux.us.com | TOKEN: a7732ea3722c9425ee9b174456ce64ca",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 905cb0f",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
