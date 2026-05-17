@@ -943,5 +943,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 69cabeed",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #136 | 2026-05-17 14:26:06",
+    "TARGET": "[25-2] => https://yqd.us.com | TOKEN: 9e173ce6c571c8f86c64a6b6ddb7fedf",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 3320f9e8",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
