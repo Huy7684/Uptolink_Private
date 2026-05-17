@@ -530,5 +530,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 6c52e806",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #77 | 2026-05-17 14:00:55",
+    "TARGET": "[74-2] => https://jehyn.sa.com | TOKEN: 3975a075fe6d23122a24c992f10ac331",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 7bcc59c5",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
