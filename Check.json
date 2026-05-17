@@ -348,5 +348,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 51b67088",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #51 | 2026-05-17 13:40:09",
+    "TARGET": "[172-2] => https://vtq.uk.com | TOKEN: ff0fc9d2e676dd5fff0b4055cce6077b",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 441a23af",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
