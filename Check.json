@@ -1062,5 +1062,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 69cabeed",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
     "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #153 | 2026-05-17 14:33:44",
+    "TARGET": "[210-2] => https://app.xocdiaonline.wtf | TOKEN: f5476dd7f98ca3f89c613190a296768a",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave | Canvas Hash: 3320f9e8",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7 | Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN: Không phát hiện | Pin: 100% (Đang sạc)"
   }
 ]
