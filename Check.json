@@ -1349,5 +1349,12 @@
     "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 766aa7aa",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7",
     "NETWORK": "Mạng: Online | VPN: Không | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #194 | 2026-05-18 17:15:33",
+    "TARGET": "[186-2] => tukruw.za.com (Google Redirect)",
+    "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 4bb88f78",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7",
+    "NETWORK": "Mạng: Online | VPN: Không | Pin: N/A"
   }
 ]
