@@ -1363,5 +1363,12 @@
     "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 61ad7fe6",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7",
     "NETWORK": "Mạng: Online | VPN: Không | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #196 | 2026-05-18 17:43:44",
+    "TARGET": "[3-2] => momo.cn.com (Google Redirect)",
+    "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 15e6483f",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7",
+    "NETWORK": "Mạng: Online | VPN: Không | Pin: N/A"
   }
 ]
