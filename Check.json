@@ -1356,5 +1356,12 @@
     "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 4bb88f78",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7",
     "NETWORK": "Mạng: Online | VPN: Không | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #195 | 2026-05-18 17:33:14",
+    "TARGET": "[75-2] => 28btjp-2.com (Google Redirect)",
+    "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 61ad7fe6",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7",
+    "NETWORK": "Mạng: Online | VPN: Không | Pin: N/A"
   }
 ]
