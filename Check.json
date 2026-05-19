@@ -1454,5 +1454,12 @@
     "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 32639914",
     "SCREEN_GPU": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Plugins: 7",
     "NETWORK": "Mạng: Online | VPN: Không | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #209 | 2026-05-19 14:44:14",
+    "TARGET": "[220-3] => f8bet-vnn.com (Google Redirect)",
+    "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 79658f9c",
+    "SCREEN_GPU": "Res: 1440x900 | GPU: Intel(R) UHD Graphics | Plugins: 5",
+    "NETWORK": "Mạng: Online | VPN: Có | Pin: N/A"
   }
 ]
